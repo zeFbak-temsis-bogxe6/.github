@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello there 👋
+
+We are building the best note taking experience for your code. 
+
+Questions? https://codereader.dev
+
 
 <!--
 
